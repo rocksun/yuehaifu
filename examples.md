@@ -7,14 +7,14 @@
 
 ![](./images/examples/e1.png)
 
-## 案例 2
+## 案例 2（户型2）
 
 [VR展示](https://vr.justeasy.cn/view/md1i6679sk646943-1669338417.html)
 
 ![](./images/examples/e2.png)
 
 
-## 案例 3
+## 案例 3 （户型1）
 
 [VR展示](https://pano.kujiale.com/cloud/design/3FO4313WVV41/show?friendid=3FO4ILYIR40K&fromqrcode=true&needmplogin=1)
 
